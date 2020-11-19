@@ -7,8 +7,22 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Analiziral bom nogometne ekipe v TOP 5 evropskih ligah (angleška, nemška, španska, italijanska in francoska) v sezoni 2019/20.
+
+Za posamezne ekipe bom aliziral:
+
+* število danih/prejetih golov (v povprečju na tekmo)
+* število strelov na gol v povprečju na tekmo
+* povprečno posest žoge
+* število rumenih ter rdečih kartonov ter njihovo povprečje 
+* povprečno oceno ekipe
+
+Iz naslednjih podatkov namervam primerjati ekipe iz TOP 5 evropskih lig glede na različne statistične podatke. Poskušal bom tudi ugotoviti, katera izmed lig je najmočnejša.
+
+Viri:
+
+* https://www.sofascore.com/
+* https://www.whoscored.com/
 
 ## Program
 
