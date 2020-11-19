@@ -9,15 +9,15 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 Analiziral bom nogometne ekipe v TOP 5 evropskih ligah (angleška, nemška, španska, italijanska in francoska) v sezoni 2019/20.
 
-Za posamezne ekipe bom aliziral:
+Za posamezne ekipe bom analiziral:
 
 * število danih/prejetih golov (v povprečju na tekmo)
-* število strelov na gol v povprečju na tekmo
+* število strelov na gol (v povprečju na tekmo)
 * povprečno posest žoge
 * število rumenih ter rdečih kartonov ter njihovo povprečje 
 * povprečno oceno ekipe
 
-Iz naslednjih podatkov namervam primerjati ekipe iz TOP 5 evropskih lig glede na različne statistične podatke. Poskušal bom tudi ugotoviti, katera izmed lig je najmočnejša.
+Iz naslednjih podatkov namervam primerjati ekipe iz TOP 5 evropskih lig glede na različne statistične podatke. Poskušal bom tudi ugotoviti, katera izmed teh lig je najmočnejša.
 
 Viri:
 
