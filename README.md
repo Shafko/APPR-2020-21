@@ -19,7 +19,33 @@ Za posamezne ekipe bom analiziral:
 
 Iz naslednjih podatkov namervam primerjati ekipe iz TOP 5 evropskih lig glede na različne statistične podatke. Poskušal bom tudi ugotoviti, katera izmed teh lig je najmočnejša.
 
-Viri:
+### Tabele
+<br/>
+
+1. tabela:
+* država
+* ekipa
+* število odigranih tekem
+* število danih golov
+* povprečje danih golov na tekmo
+<br/><br/>
+
+2. tabela:
+* država
+* ekipa
+* število rumenih kartonov
+* število rdečih kartonov
+<br/><br/>
+
+3. tabela:
+* država
+* ekipa
+* posest v %
+* natančnost podaj v %
+* povprečni rating ekipe
+<br/><br/>
+
+### Viri
 
 * https://www.sofascore.com/
 * https://www.whoscored.com/
